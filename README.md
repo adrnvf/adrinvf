@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=Software Develover" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;ADS+Student;Future+Full+Stack+Developer;Always+Learning+%F0%9F%92%BB" alt="Typing SVG">
   </a>
+</div>
 
 
 Me chamo Adriel Novaes, tenho 20 anos e sou de São paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na Ung Itaquaquecetuba. Sou apaixonado por tecnologia, curioso sobre Hardware.
