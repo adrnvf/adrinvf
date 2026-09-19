@@ -4,7 +4,7 @@
   </a>
 
 
-Me chamo Adriel Novaes, tenho 20 anos e sou de São paulo. Atualmente curso Análise e Desenvolvimento de Sistemas na Ung Itaquaquecetuba. Sou apaixonado por tecnologia, curioso sobre Hardware.
+Me chamo Adriel Novaes, tenho 20 anos e sou de São paulo sp. Atualmente curso Análise e Desenvolvimento de Sistemas na Ung Itaquaquecetuba. Sou apaixonado por tecnologia, curioso sobre Hardware.
  
 #
 
